@@ -13,12 +13,12 @@ var jets,jet1,jet2,g1,g2,rankB;
 var bg,bg2, jet1_img, jet2_img,bb;
 
 function preload(){
- bg=loadImage("images/bg.jpg")
- bg2=loadImage("images/space.jpg")
- jet1_img=loadImage("images/jet2.png")
- jet2_img=loadImage("images/jet1.png")
- bb=loadImage("images/bullet.png");
- b1=loadImage("images/bullet1.png");
+ bg=loadImage("bg.jpg")
+ bg2=loadImage("space.jpg")
+ jet1_img=loadImage("jet2.png")
+ jet2_img=loadImage("jet1.png")
+ bb=loadImage("bullet.png");
+ b1=loadImage("bullet1.png");
 }
 
 function setup(){
